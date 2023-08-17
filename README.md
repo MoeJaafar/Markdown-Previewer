@@ -15,7 +15,7 @@ To get started, follow these steps:
 
 1. Clone this repository to your local machine:
 
-   git clone https://github.com/your-username/markdown-preview
+   git clone https://github.com/MoeJaafar/markdown-preview
 
 2. Install the necessary dependencies using npm:
 
